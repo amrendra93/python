@@ -3,6 +3,7 @@ pink
 blue
 green
 yellow
+no color
 voilet
 Unicorn
 bage
