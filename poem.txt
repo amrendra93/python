@@ -4,4 +4,5 @@ blue
 red
 green
 yellow
+voilet
 rainbow
